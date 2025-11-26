@@ -1,0 +1,7020 @@
+Etiquetas
+Label: dos
+Label: dos
+"After analyzing your network flow attributes and comparing them with the labeled examples, I classified this flow as:
+
+dos"
+Label: dos
+"After analyzing the given network flow attributes and comparing them with the labeled examples, I would classify this flow as:
+
+""dos"""
+"Based on your network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:56:53.766
+Duration (Duration of the flow) : 0.006
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 52186.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+I classify this flow as:
+
+Label: normal"
+Label: dos
+"Based on the given network flow attributes and comparing them with the provided labeled examples, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the attributes of your network flow and the provided labeled examples, I would classify it as:
+
+dos"
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"After analyzing the flow attributes, I would classify this flow as:
+
+normal"
+"Based on the network flow attributes and comparison with provided labeled examples, 
+
+Label: dos"
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: bruteForce
+Label: normal
+Label: dos
+Label: dos
+"Based on the provided flow attributes and the labeled examples, I would classify this flow as:
+
+Label: dos"
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the flow attributes and the labeled examples provided, I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal.
+Label: portScan
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: dos
+"Based on the network flow attributes and the provided examples, I classify this flow as:
+
+Label: dos"
+Label: portScan
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+"Based on the attributes provided for your network flow and considering the labeled examples given, I would classify it as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"After analyzing your network flow with the provided attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:57:35.569
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 41160.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: dos
+Label: dos
+Label: normal.
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the network flow attributes, I would classify it as:
+
+normal"
+Label: dos
+Label: dos
+"Based on the given network flow attributes:
+Date first seen (Start time flow first seen) : 2017-03-24 15:57:43.356
+Duration (Duration of the flow) : 0.002
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 44236
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is: 
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the input flow, I would classify it as:
+
+normal."
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+"Based on the given attributes of your network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:57:56.297
+Duration (Duration of the flow) : 0.006
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 48699
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:57:58.259
+Duration (Duration of the flow) : 0.005
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 49431
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is: 
+dos"
+Label: normal
+Label: dos
+Label: dos
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I classify this flow as:
+
+normal"
+Label: dos
+Label: dos
+Label: dos
+"Based on the given flow attributes, it seems that the flow is a brute force attack. 
+
+Label: bruteForce"
+"Based on the given attributes of your network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:58:04.684
+Duration (Duration of the flow) : 0.004
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 39821.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+The label for this flow is:
+Label: dos"
+Label: dos
+Label: normal
+Label: portScan
+Label: dos
+"Based on your network flow with the following attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:58:07.303
+Duration (Duration of the flow) : 0.002
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 40605
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is:
+
+normal"
+Label: dos
+Label: dos
+Label: portScan
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:58:15.962
+Duration (Duration of the flow) : 0.002
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 43934
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+Label: dos"
+Label: dos
+"Based on your input flow, the label is:
+
+Label: dos"
+"Based on the given attributes and the provided labeled examples, I would classify this flow as:
+
+dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: normal.
+Label: dos
+Label: normal
+Label: dos
+"Based on the input network flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+"Based on the attributes of your network flow, I would classify it as:
+
+Label: dos"
+Label: normal
+Label: dos
+"Based on the attributes of your network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:58:54.949
+Duration (Duration of the flow) : 0.007
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 50404
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+I can classify this flow as:
+
+Label: bruteForce"
+Label: dos
+Label: bruteForce
+Label: normal
+Label: dos
+Label: dos.
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"Based on the given attributes and comparison with existing labeled examples, 
+
+Label: dos"
+Label: dos
+"Based on the provided network flow attributes and comparison with the labeled examples, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: dos
+Label: dos
+"Based on the given network flow attributes and the labeled examples, I would classify it as:
+
+dos"
+Label: bruteForce
+Label: dos
+"Based on the given network flow attributes and comparison with previous examples, I would classify this flow as:
+
+Label: bruteForce"
+Label: dos
+"Based on the attributes provided, I would classify this flow as:
+
+dos"
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: bruteForce
+Label: dos.
+Label: dos
+"Based on the given attributes and analyzing the provided examples, I would classify this flow as:
+
+dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-24 15:59:34.095
+Duration (Duration of the flow) : 0.004
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 58543
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+Label: dos"
+Label: dos
+Label: normal
+Label: normal
+Label: dos
+"Based on the network flow attributes provided, I classify it as follows:
+
+Label: bruteForce"
+Label: dos
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+"Based on the network flow attributes, I would classify it as follows:
+
+Label: normal"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 15:59:49.009
+Duration (Duration of the flow) : 0.002
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 35389
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The flow is classified as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the network flow attributes and the provided examples, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos.
+Label: normal
+"Based on the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+"Based on the attributes provided for your network flow and the examples of labeled flows, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: dos
+"Based on the input attributes, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+dos"
+Label: dos
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:00:13.461
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 41330
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label for this flow is: 
+Label: dos"
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:00:13.624
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 41400.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) : 206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+The label is:
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"Based on the provided attributes and considering the patterns from the labeled examples, this flow can be classified as:
+
+normal"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos.
+Label: normal
+Label: normal
+Label: dos
+Label: dos
+"Based on the given network flow attributes and the labeled examples provided, I would classify this flow as:
+
+dos"
+Label: dos
+Label: dos
+Label: normal
+"Based on the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: normal
+"Based on the given network flow attributes and the provided examples, the classification of the new flow is:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:00:24.378
+Duration (Duration of the flow) : 0.006
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 45951
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is: dos"
+Label: normal
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: bruteForce
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the input flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-24 16:00:35.845
+Duration (Duration of the flow) : 0.002
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 50868
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is: dos"
+Label: dos
+Label: dos
+"Based on the given flow attributes and the provided examples, I would classify this flow as:
+
+portScan"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the given attributes of the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:00:39.193
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 34341.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) : 206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+The label is: 
+normal"
+Label: dos
+"Based on the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal."
+"Based on the input flow attributes, I classify this flow as:
+
+dos"
+"Based on the attributes you provided:
+
+Label: dos"
+"Based on the given attributes and the labeled examples, this flow is classified as:
+
+Label: dos"
+Label: bruteForce
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the input network flow and the labeled examples provided, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+"Based on the flow attributes and the given labeled examples, I classify this flow as:
+
+Label: dos"
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"After analyzing your network flow and comparing it with the labeled examples, I would classify this flow as:
+
+normal"
+Label: dos
+"Based on the given attributes:
+
+Proto (Transport protocol): TCP  
+Flags (.A..SF)
+
+This flow is likely a ""dos"" attack."
+Label: dos
+Label: dos
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+Label: dos"
+"Based on the attributes of your network flow:
+
+Label: dos"
+Label: dos
+"After analyzing your network flow and comparing it with the provided labeled examples, I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: normal
+Label: dos
+"Based on the network flow attributes and comparing them with the given labeled examples, I classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+"Based on the given attributes of the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:01:00.539
+Duration (Duration of the flow) : 0.005
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 48135
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 6
+Bytes (Number of transmitted bytes) : 545
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"Based on the input flow attributes and comparison with given labeled examples, 
+Label: normal"
+Label: portScan
+Label: dos
+Label: normal
+Label: normal
+Label: dos
+Label: dos
+Label: dos.
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on your network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:01:13.952
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 54789.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (SHRSTPSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+This flow is classified as: normal"
+Label: dos
+Label: dos
+"Based on the input flow attributes and the examples provided, I would classify this flow as:
+
+dos"
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+"Based on the network flow attributes provided, I would classify it as:
+
+Label: normal"
+Label: dos
+Label: dos
+Label: dos
+Label: dos.
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos.
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the provided network flow attributes and comparing them with the labeled examples, I would classify this flow as:
+
+normal"
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:01:29.772
+Duration (Duration of the flow) : 0.001
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 46040
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label for this flow is:
+Label: dos"
+"Based on the given attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:01:29.805
+Duration (Duration of the flow) : 0.001
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 46056.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+The flow is classified as: 
+Label: normal"
+Label: dos.
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+"Based on the attributes of your network flow and my analysis of the provided labeled examples:
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: portScan
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes, the flow is classified as:
+
+Label: portScan"
+Label: portScan
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the given examples, I classify this flow as:
+
+normal"
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal.
+normal
+Label: normal
+Label: normal.
+Label: portScan.
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+"Based on the flow attributes, I would classify this flow as:
+
+normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"After analyzing your input flow and comparing it with the given examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided information and your network flow attributes, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the given network flow attributes and considering the provided examples, I would classify this flow as:
+
+normal"
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal.
+Label: portScan
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+"After analyzing your flow, I would classify it as:
+
+normal"
+"After analyzing your network flow with the given attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 16:56:19.362
+Duration (Duration of the flow) : 0.178
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.14
+Src port (Source port) : 37509
+Dest IP (Destination IP) : 10062_127
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      198
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A...F
+
+I classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: portScan
+"Based on the network flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal."
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: bruteForce
+Label: normal
+"After analyzing your network flow and comparing it with the provided examples, I would classify it as:
+
+normal"
+normal
+"Based on the given attributes and the labeled examples provided, this flow can be classified as:
+
+normal 
+
+Explanation:
+- The protocol is TCP which is normal for web traffic.
+- There's only one packet transmitted which rules out Dos attack
+- No SYN flag is present in the flags field which makes it unlikely to be a port scan or brute force attack.
+- No ICMP traffic is involved, so we can rule out ping scan."
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan.
+normal
+Label: normal
+Label: dos
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the given network flow attributes:
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: dos
+"Based on the network flow provided, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: bruteForce
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on your network flow's attributes and the patterns observed in the labeled examples, I classify this flow as:
+
+normal"
+"After analyzing the input flow and comparing it with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal.
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the provided examples, this flow is likely a ""dos"" (denial of service) attack. 
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your flow and comparing it with the given examples, I would classify this flow as:
+
+Label: normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the provided network flow attributes and the labeled examples, I will classify this flow.
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: dos
+Label: normal
+Label: normal
+Label: normal.
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+"Based on the network flow attributes, the label is:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: portScan
+Label: portScan
+Label: portScan.
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal.
+Label: portScan
+Label: normal
+"Based on the given attributes and the labeled examples, I would classify this flow as:
+
+normal"
+Label: bruteForce
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+"Based on the flow attributes:
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes of your network flow and my analysis, I would classify it as:
+
+normal"
+Label: normal
+"Based on the given network flow attributes and the labeled examples provided, I classify this flow as:
+
+Label: normal"
+"Based on the network flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+"After analyzing the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples provided, I will classify this flow into one of the five possible labels.
+
+The given flow has the following attributes:
+- Proto (Transport protocol): TCP
+- Flags: .A...F
+- Duration: 0.017
+- Packets: 2
+- Bytes: 108
+
+Comparing these attributes with the labeled examples, I notice that this flow is similar to several ""normal"" flows in terms of duration, number of packets and bytes transferred, and TCP flags (in particular, it does not have any RST or SYN flags set). However, I will look for other characteristics that might indicate a specific type of attack.
+
+One characteristic that stands out is the source and destination IP addresses. The source address is 192.168.200.8, which seems to be an internal IP address within the network, while the destination IP address is 10117_88 (note: this appears to be a private IP address with some of the digits replaced; it could potentially indicate an external or unknown host). 
+
+In most ""dos"" and ""portScan"" examples, there are multiple packets sent in a short duration. In this case, only two packets were sent within 0.017 seconds, which seems relatively low for a DOS attack.
+
+For ""bruteForce"" attacks, the source port is usually not fixed (unlike in the provided example), and often several different ports are used to try multiple services.
+
+Lastly, for ""pingScan"" attacks, there is typically only one packet sent with a specific ICMP protocol flag set. However, this flow uses TCP protocol instead of ICMP, so it does not fit into that category.
+
+Given these characteristics, I would classify the given network flow as:
+
+Label: normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal.
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+"Based on your input, I will classify your flow as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: portScan
+normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal.
+"Based on the given flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the given attributes of the network flow:
+
+Label: normal"
+Label: normal
+Label: dos
+normal
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:46:56.815
+Duration (Duration of the flow) : 2.233
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 53594
+Dest IP (Destination IP) : 10499_36
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 15
+Bytes (Number of transmitted bytes) :     4488
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+This flow appears to be a ""normal"" flow because the duration is short, there are multiple packets transmitted with specific flags indicating an established connection."
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"After analyzing your network flow with the given attributes, I would classify it as:
+
+normal"
+Label: dos
+Label: dos
+"Based on the provided network flow attributes and the labeled examples, I can classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"Based on your input data and the provided flow attributes, I would classify this flow as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on your input flow:
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:18.270
+Duration (Duration of the flow) : 0.001
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 59551.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) : 206
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+The label for this flow is:
+Label: dos"
+"Based on the network flow attributes, I would classify it as:
+
+dos"
+Label: dos
+Label: dos.
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the attributes provided for the network flow, I would classify it as:
+
+Label: dos"
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:29.773
+Duration (Duration of the flow) : 0.001
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 35679
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is:
+dos"
+Label: dos
+Label: normal
+"Based on the attributes of your flow, it appears to be a brute force attack.
+
+Label: bruteForce"
+Label: dos
+"Based on the provided attributes and examples, I would classify this flow as:
+
+Label: normal"
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:34.993
+Duration (Duration of the flow) : 0.003
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 37608
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 479
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+The label is: 
+dos"
+"After analyzing your input flow and comparing it with the given examples, I would classify this flow as:
+
+normal"
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+normal
+Label: dos
+"After analyzing your network flow, I classified it as:
+
+Label: dos"
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"Based on the given input flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:49.130
+Duration (Duration of the flow) : 0.006
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 42842
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 6
+Bytes (Number of transmitted bytes) : 545
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+I would classify it as:
+
+Label: bruteForce"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the attributes provided for your network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:52.269
+Duration (Duration of the flow) : 0.005
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 44060
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 6
+Bytes (Number of transmitted bytes) : 545
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+I would classify this flow as: 
+
+Label: dos"
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the given attributes and the labeled examples, this flow is classified as:
+
+Label: dos"
+"Based on the input flow attributes, I classify it as:
+
+Label: dos"
+Label: dos
+Label: dos
+"Based on your network flow with the following attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:47:59.204
+Duration (Duration of the flow) : 0.012
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.6
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 46691.0
+Packets (Number of transmitted packets) : 4
+Bytes (Number of transmitted bytes) : 272
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..SF
+
+I would classify this flow as:
+
+normal"
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"Based on the given attributes, this flow can be classified as:
+
+dos"
+normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal.
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+"After analyzing the input attributes, I would classify this flow as:
+
+dos"
+Label: dos
+"Based on the characteristics of your network flow and comparing it with the labeled examples provided, I would classify this flow as:
+
+""dos"""
+Label: normal
+Label: dos
+Label: dos
+"Based on the provided network flow attributes and the given examples, I classify this flow as:
+
+normal"
+"After analyzing the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+"Based on the provided attributes, this flow can be classified as:
+
+Label: dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the provided network flow attributes:
+
+Label: normal"
+Label: dos
+"Based on the provided network flow attributes and the labeled examples, I can classify this flow as follows:
+
+Label: dos"
+Label: normal
+"Based on the given attributes, the flow is classified as:
+
+dos"
+"Based on the attributes provided for your network flow, I classify it as:
+
+dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the input flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-24 18:48:25.685
+Duration (Duration of the flow) : 0.005
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 42273
+Dest IP (Destination IP) : 192.168.100.6
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 6
+Bytes (Number of transmitted bytes) : 545
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.SF
+
+Label: dos"
+Label: dos
+"Based on the given attributes, this flow can be classified as:
+
+normal"
+Label: dos.
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on your input flow and the provided labeled examples, I classify this flow as:
+
+normal"
+Label: dos
+Label: dos
+Label: dos
+Label: dos.
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+"Based on the given attributes and the labeled examples, I would classify this flow as:
+
+""normal""
+
+Explanation:
+The flow is TCP based, has a short duration, and involves a typical HTTP request-response cycle. The flags do not indicate any suspicious activity (e.g., no SYN flood or FIN scan). Therefore, it appears to be a normal network communication."
+"Based on the input flow attributes and the provided labeled examples, I would classify this flow as:
+
+dos"
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+"Based on the network flow provided and the labeled examples, I classify this flow as:
+
+normal."
+Label: dos
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: normal
+Label: dos
+Label: dos
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes of your network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-24 18:51:04.807
+Duration (Duration of the flow) : 0.033
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10060_27
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.9
+Dest port (Destination port) : 39984.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :     2311
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+"Based on the input flow attributes, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the network flow attributes and the provided examples, I would classify this flow as:
+
+Label: portScan"
+Label: portScan
+Label: portScan
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow attributes and comparing them with the labeled examples provided, I would classify this flow as:
+
+Label: normal"
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the given network flow attributes:
+
+Proto (Transport protocol): TCP  
+Src IP (Source IP address): 192.168.220.15
+Dest IP (Destination IP): 192.168.210.4
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)): ....S.
+
+This flow is a brute force attack because the source ip address is scanning multiple ports on different destination IPs, and in this case, it's trying to login to a destination port 22 which is common for SSH login. 
+
+ Label: bruteForce"
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+Label: bruteForce"
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes, I classify it as:
+
+normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: portScan.
+Label: portScan
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: normal
+"Based on the network flow attributes you provided:
+
+Date first seen (Start time flow first seen) : 2017-03-24 20:21:34.031
+Duration (Duration of the flow) : 0.045
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10077_156
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.200.8
+Dest port (Destination port) : 60998.0
+Packets (Number of transmitted packets) : 8
+Bytes (Number of transmitted bytes) :     5531
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow and its attributes, it does not match any of the ""dos"", ""portScan"", ""bruteForce"", or ""pingScan"" patterns. Therefore, based on the provided information, I would classify this flow as:
+
+normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: portScan
+Label: normal.
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+normal
+normal
+"After analyzing the network flow with the provided attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-25 07:05:52.346
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.7
+Src port (Source port) : 44423
+Dest IP (Destination IP) : 10796_85
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 2
+Bytes (Number of transmitted bytes) :      185
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP..F
+
+I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: dos
+Label: normal
+"Based on the given flow attributes and the examples provided, the classification of this flow is:
+
+Label: normal."
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the analysis of the given network flow attributes and comparing them with the provided labeled examples, the classification for this flow is:
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow, I would classify it as:
+
+normal"
+Label: normal
+Label: portScan
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your provided flow data and my analysis, I would classify it as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the input flow, I classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes you provided and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal.
+"Based on the flow attributes provided, I would classify it as:
+
+""dos"""
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow with the given attributes and considering the patterns in the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: pingScan
+Label: normal
+Label: portScan
+Label: portScan
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+ normal"
+Label: dos
+Label: normal
+Label: normal
+"Based on the network flow attributes provided:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the given network flow attributes and the labeled examples provided, this is how we can classify it:
+
+The flow has a duration of 0.0 seconds which is an instant connection/disconnection, typically seen in scans or brute force attacks.
+
+Src port (443) and Dest port (57767.0) are not typical ports used for normal communication. 
+
+Given the combination of these two factors, this flow seems to be related to a Port Scan attack.
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+"Based on the provided network flow attributes, I would classify it as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+normal
+normal
+Label: normal
+normal
+normal
+Label: normal
+"After analyzing the flow attributes, I would classify this network flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the training data, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and comparing them with the examples, I would classify it as:
+
+normal
+
+However, upon closer inspection of the flow's destination port (51255) and source port (443), which are common ports used for HTTPS connections, this flow appears to be more likely a normal TCP handshake."
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the given network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+"Based on your network flow attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the given network flow attributes and the provided labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: bruteForce
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes and previous examples, this flow is classified as ""dos"". 
+
+Label: dos"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+"To classify this network flow, let's analyze its attributes:
+
+- Proto (Transport protocol) is TCP.
+- Src IP and Dest IP are EXT_SERVER and 192.168.200.9 respectively, but we don't have enough information about these IPs to determine if they're malicious or not.
+- The flow involves a significant number of packets (7) and bytes (1819), which could be indicative of a DOS attack.
+- However, the flags (.AP.SF) indicate that this is a connection attempt with no immediate RST or FIN packets sent by the server. This pattern is often seen in port scans and brute-force attacks.
+
+Considering these points, it seems likely that this flow represents either a ""dos"" attack or another type of attack. However, the Flags (.AP.SF) seem to indicate that this could be more specific than just a DOS attack. Given the significant amount of data being sent (1819 bytes), I would still categorize this as a Dos attack.
+
+Label: dos"
+"Based on the given attributes, I would classify this flow as:
+
+normal"
+Label: normal
+Label: portScan
+Label: normal.
+Label: normal
+"Based on the characteristics of your network flow and the examples provided, I would classify it as:
+
+normal"
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-26 06:28:13.004
+Duration (Duration of the flow) : 0.001
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.9
+Src port (Source port) : 50314
+Dest IP (Destination IP) : 192.168.100.5
+Dest port (Destination port) : 445.0
+Packets (Number of transmitted packets) : 2
+Bytes (Number of transmitted bytes) :      174
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+The flow is a Port Scan attack.
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your flow, I would classify it as:
+
+Label: normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I classify it as:
+
+dos 
+
+However, note that this classification is not definitive and may require further analysis in a real-world scenario."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your input flow and the labeled examples, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples provided, I would classify this flow as:
+
+Label: normal"
+Label: normal
+"Based on the provided network flow attributes and the examples of labeled flows, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: normal
+"Based on the given network flow attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-26 16:19:18.445
+Duration (Duration of the flow) : 0.378
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.200.8
+Src port (Source port) : 63495
+Dest IP (Destination IP) : 12982_124
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 7
+Bytes (Number of transmitted bytes) :     1369
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The flow is classified as: 
+
+normal"
+Label: pingScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the attributes of your network flow, I classify it as:
+
+Label: portScan"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes of your network flow, it appears to be a port scan attack. 
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+normal
+
+However, there seems to be one inconsistency in the flags field. The '.' has no meaning when it comes to TCP flags, so I'm going to assume that it's a typo or an error.
+
+If we remove the '.', then the flags become '.APF'. However, none of these attacks match with this flag combination as well, since the provided examples do not contain any flows with "".APF"" flags. 
+
+In that case we would have to look at other possible factors like duration (0.243 is quite low), packets transmitted(2) and bytes transmitted(166). Considering these, it seems more likely that this flow is a normal one rather than an attack.
+
+But for the sake of accuracy I would recommend to check if there are any other flows with "".APF"" flags in your dataset."
+Label: normal
+Label: normal
+"Based on the given network flow and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: dos
+Label: dos
+"Based on the attributes provided for your network flow, I would classify it as:
+
+normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and comparing with examples of known attacks, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the given network flow attributes:
+
+Label: normal"
+"Based on the given network flow attributes and the classification rules from the provided labeled examples, this flow is classified as:
+
+ normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the network flow attributes provided:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and the given labeled examples, I classify this flow as:
+
+normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-27 08:00:28.876
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 13699_120
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.10
+Dest port (Destination port) : 41730.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The flow is classified as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 08:42:34.516
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.5
+Src port (Source port) : 445
+Dest IP (Destination IP) : 192.168.220.14
+Dest port (Destination port) : 57707.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :      108
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+The label is:
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input attributes and comparison with provided examples, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the given network flow attributes:
+Date first seen (Start time flow first seen) : 2017-03-27 08:49:04.310
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10060_27
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.210.5
+Dest port (Destination port) : 50326.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is: normal"
+Label: normal
+Label: normal
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 08:50:46.725
+Duration (Duration of the flow) : 0.015
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.210.5
+Src port (Source port) : 51307
+Dest IP (Destination IP) : 10423_140
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      193
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP..F
+
+I would classify this flow as:
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: dos
+Label: normal
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes, I would classify it as:
+
+normal"
+"Based on the network flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on your network flow attributes and the labeled examples provided, I will classify the given flow.
+
+After analyzing the attributes of your network flow:
+Date first seen (Start time flow first seen) : 2017-03-27 09:16:15.781
+Duration (Duration of the flow) : 1.567
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10499_46
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.200.9
+Dest port (Destination port) : 61258.0
+Packets (Number of transmitted packets) : 12
+Bytes (Number of transmitted bytes) :     1124
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+I classify this flow as follows:
+
+Label: normal"
+"Based on the provided network flow attributes and the labeled examples, I would classify this flow as:
+
+portScan"
+Label: normal
+Label: normal
+"Based on the characteristics of your network flow and comparison with known patterns, I classify it as:
+
+Label: normal"
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input attributes and comparison with labeled examples, the classification of the given flow is:
+
+Label: normal"
+Label: normal.
+Label: dos
+Label: normal.
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes, I classify it as:
+
+Label: normal."
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: portScan
+Label: pingScan
+Label: pingScan
+"Based on the input flow attributes and comparing them with the given examples of cyber attacks, I would classify this flow as:
+
+Label: pingScan"
+Label: normal
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+"Based on the network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: portScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the given flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-27 09:51:13.845
+ Duration (Duration of the flow) : 0.155
+ Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+ Src IP (Source IP address) : 10143_51
+ Src port (Source port) : 80
+ Dest IP (Destination IP) : 192.168.220.15
+ Dest port (Destination port) : 48184.0
+ Packets (Number of transmitted packets) : 3
+ Bytes (Number of transmitted bytes) :     1323
+ Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+Label: normal"
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+"Based on the attributes of your network flow, it appears that this is a port scan attack. 
+
+Label: portScan"
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: normal
+"Based on the given flow attributes and examples, I would classify this flow as:
+
+normal 
+
+However, please note that based on flags alone, the flow could also be classified as portScan or bruteForce. However, considering other attributes like duration (0.06), number of packets transmitted (5), and the protocol used (TCP), it is more likely to be a normal flow rather than an attack."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: pingScan
+Label: normal.
+Label: normal
+normal
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input network flow and the attributes provided, after analyzing the characteristics of the flow, I would classify this as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 10:13:45.106
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10064_169
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.16
+Dest port (Destination port) : 59891.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is:
+
+normal"
+Label: normal
+"Based on the network flow attributes provided, I classify it as:
+
+Label: normal"
+Label: normal
+Label: normal.
+Label: normal
+"Based on the input flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 10:15:39.264
+Duration (Duration of the flow) : 0.028
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.16
+Src port (Source port) : 55102
+Dest IP (Destination IP) : 11046_154
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) :      536
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+Label: portScan"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the examples provided, this is my classification:
+
+Label: dos"
+"Based on the network flow attributes provided, I will classify this flow.
+
+First, let's analyze some key parameters:
+
+- The duration of the flow is 0.617 seconds, which indicates a relatively short-lived connection.
+- The protocol used is TCP.
+- The source IP address is 192.168.100.5, and the destination IP address is 192.168.220.14.
+- There are 1997 packets transmitted in both directions.
+
+Looking at these parameters, we can see that there's a large number of packets being exchanged between two hosts over a short period of time. However this alone isn't enough to determine what type of traffic it is since you could have high volume traffic on a normal connection as well.
+
+However, looking closer at the flags and ports, .AP... suggests that the connection was initiated with a SYN packet (indicated by 'S') and then had an ACK and possibly PSH packets. The source port 445 is typically associated with SMB (Server Message Block) which can be used for legitimate purposes such as file sharing but also has potential malicious uses like brute force attacks.
+
+On the other hand, the destination port 57707 doesn't suggest a typical service port that would indicate a specific type of attack.
+
+Given all this information, I couldn't determine the label with certainty. However, given the combination of large packet volume and source port 445, my guess is:
+
+ Label: dos"
+Label: normal
+Label: normal
+"Based on the given network flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+Label: normal"
+"Based on the flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and the given examples, I would classify it as:
+
+normal 
+
+However, upon closer inspection of the flags (.AP.S.), which indicate a SYN flag with no RST flag, this might actually be indicative of a potential brute force attack (SYN flooding), but let's consider other possibilities. Given the relatively high number of packets and bytes transmitted (10 and 2028 respectively) in a short amount of time, it could also suggest some form of DOS or SYN flood attack as well.
+
+However, since there is no RST flag present which would indicate that this flow was part of an attempt to establish a connection with the target host but get reset before data exchange occurred; and given the fact the source IP address of 192.168.220.8 has been used in various other examples where it was identified as being involved in BruteForce attacks, we may actually be dealing with a different type of attack.
+
+However considering that  this is still not conclusive evidence that I am going to take a guess based on the information given."
+"Based on the given network flow attributes, the classification is:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes, I would classify it as:
+
+normal"
+"Based on the given network flow and the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the flow attributes and the provided examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes and comparing them with the provided labeled examples, this flow can be classified as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal.
+Label: normal
+Label: normal
+"Based on the given attributes of the flow and the provided labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and the given labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes and comparing them with the labeled examples, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+"Based on the network flow attributes provided, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the provided network flow attributes and the labeled examples, I classify the given flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes of your network flow, it appears to be a brute force attack. 
+
+Label: bruteForce"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the flow attributes and the provided examples, I classify this flow as:
+
+Label: bruteForce"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"Based on the given attributes, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given attributes and comparing with the examples provided, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 11:41:40.132
+Duration (Duration of the flow) : 0.052
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.16
+Src port (Source port) : 41386
+Dest IP (Destination IP) : 10499_46
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 4
+Bytes (Number of transmitted bytes) :      701
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The label is:
+normal"
+Label: normal
+Label: portScan
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+"Based on the network flow attributes you provided, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the provided labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples, I classify this flow as:
+
+portScan"
+Label: normal
+Label: dos
+Label: normal
+"After analyzing your network flow attributes and comparing them with the given examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal.
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes and the given examples, this flow is likely a ""dos"" attack."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given input and your network flow attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your network flow attributes and the provided examples of labeled flows, I will classify this new flow as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+normal
+"After analyzing your network flow against the provided labeled examples, I would classify it as:
+
+normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+"Based on the network flow attributes and the provided labeled examples, I would classify this flow as:
+
+Label: dos"
+Label: normal.
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: bruteForce
+Label: dos
+"After analyzing the given attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"Based on the input flow attributes and the labeled examples, I would classify this network flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: bruteForce
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 12:46:55.723
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10325_11
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 45984.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is:
+Label: normal"
+Label: normal
+Label: normal
+"Based on the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+"Based on the input flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-27 12:47:26.170
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.8
+Src port (Source port) : 43447
+Dest IP (Destination IP) : 10063_33
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+"After analyzing your input network flow with the given attributes, I would classify it as:
+
+normal"
+"Based on the provided network flow attributes and the training data, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes of the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-27 12:53:53.814
+Duration (Duration of the flow) : 0.469
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10321_204
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.6
+Dest port (Destination port) : 53880.0
+Packets (Number of transmitted packets) : 19
+Bytes (Number of transmitted bytes) :    56776
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+This flow is likely a ""dos"" attack due to the large number of packets transmitted and the high volume of bytes."
+normal
+"After analyzing your network flow with the provided attributes, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+normal
+"After analyzing your network flow and comparing it with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"Based on the input flow and the attributes provided, I can classify it as follows:
+
+Label: normal"
+Label: normal
+Label: normal.
+"Based on the given attributes, I classify this flow as:
+
+normal"
+"After analyzing the given network flow attributes and comparing them with the provided examples of cyber attacks, I classified this flow as follows:
+
+Label: normal"
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"Based on the input flow and the provided examples, this is how I would classify it:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the network flow attributes provided:
+
+Label: normal"
+"After analyzing the flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the network flow attributes provided and analyzing them against the given examples:
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the flow attributes and the labeled examples provided, I can classify your flow as follows:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples provided, I classify this flow as:
+
+normal 
+
+This classification is based on the following characteristics of the flow:
+
+* It's a TCP protocol which is common for most normal traffic
+* The source IP address and destination IP address seem to be from different subnets, suggesting they are communicating normally.
+* There are only 2 packets transmitted with no indication of abnormal flag combinations (e.g., SYN+FIN, RST+ACK)
+* No significant amount of data was transmitted which is typical for a normal connection.
+
+This flow does not show any characteristics typical of ""dos"", ""portScan"", ""bruteForce"" or ""pingScan"" attacks."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the labeled examples provided, I would classify this flow as follows:
+
+Label: normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+"Based on the provided network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 13:19:28.260
+Duration (Duration of the flow) : 0.035
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.4
+Src port (Source port) : 51310
+Dest IP (Destination IP) : 10708_178
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 2
+Bytes (Number of transmitted bytes) :      140
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..S.
+
+The label is: normal"
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"After analyzing your network flow with the given attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan
+normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, this flow is classified as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the analysis of your network flow and the provided labeled examples, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input attributes and the labeled examples, I would classify this flow as:
+
+Label: bruteForce"
+Label: normal.
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I classify this flow as:
+
+normal."
+Label: portScan
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 13:46:27.377
+Duration (Duration of the flow) : 0.554
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 55909
+Dest IP (Destination IP) : 10068_66
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 6
+Bytes (Number of transmitted bytes) :      684
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and the provided labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+"Based on the given network flow attributes and the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal.
+Label: normal
+Label: normal.
+normal
+"Based on the input flow and your labeled examples, I would classify this flow as:
+
+normal 
+
+This classification is made based on the following features that are commonly associated with normal network traffic:
+- The number of packets (6) and bytes transmitted (2468) are not excessively high.
+- The duration (1.565 seconds) is within a reasonable range for a single TCP connection.
+- The flags (.AP.SF) do not indicate any signs of anomalies or malicious behavior.
+
+However, keep in mind that this classification is based on the provided examples and may not be comprehensive. There are many types of cyber attacks, and these classifications might change with new data and features."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes, I would classify it as:
+
+normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+normal"
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your input flow attributes and the given labeled examples, this flow is classified as:
+Label: normal"
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"After analyzing your network flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your flow data and my analysis, I classify this flow as:
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+"Based on the attributes provided for the new network flow, it appears to be a normal TCP connection with a single packet and no indication of malicious behavior. 
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+normal
+"To classify this flow, we will analyze its attributes:
+
+- Duration (Duration of the flow) : 1.515 seconds is a relatively long duration for a simple HTTP request or other normal traffic.
+- Proto (Transport protocol): TCP
+- Src IP and Dest IP: Both are private IP addresses which might indicate internal network communication but it does not provide enough information about type of attack on its own.
+- Src port and Dest port: 46028 is the source port, and 443 is a standard HTTPS port, which is often used for secure web traffic. This could be a legitimate connection or an attempt to establish a secure shell (SSH) connection.
+- Packets and Bytes: The number of packets and bytes transmitted are not unusual for a normal HTTP request.
+
+However, the flags .AP.SF indicate a SYN packet followed by ACK and PSH packets but no FIN packet which might suggest a half-open TCP connection. This is an indicator of a potential brute-force attack or a denial-of-service (DoS) attack.
+
+Based on these observations, I would classify this flow as:
+
+Label: bruteForce"
+Label: normal
+Label: normal
+"Based on your network flow attributes, I would classify it as:
+
+Label: normal"
+"Based on your provided network flow attributes and my analysis of them relative to the given examples and types of cyber attacks, I would classify this flow as:
+
+normal."
+Label: normal
+"Based on the network flow attributes you provided and my analysis of them in relation to your training data, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the given flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal
+
+Here's why:
+
+- The duration of the flow is 0.058 seconds, which indicates that it might be a normal connection.
+- The transport protocol used is TCP, which is commonly used for web browsing and other legitimate purposes.
+- The source IP address (192.168.220.14) and destination IP address (10793_130) are not suspicious; they seem to be part of the same network or have legitimate connections between them.
+- The number of transmitted packets (2) and bytes (941) is relatively low, which might indicate a normal connection rather than an attack.
+- The flags used (.AP...) do not suggest any malicious intent.
+
+Considering these factors, it's more likely that this flow represents a normal connection."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"After analyzing your network flow attributes and comparing them with the given labeled examples, I would classify it as:
+
+normal."
+Label: normal.
+normal
+Label: normal
+Label: normal
+"Based on the provided attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+"After analyzing your network flow with the provided attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 14:56:08.701
+Duration (Duration of the flow) : 0.179
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 34790
+Dest IP (Destination IP) : 10056_19
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 12
+Bytes (Number of transmitted bytes) :     1562
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+I have classified this flow as: 
+
+ Label: normal"
+Label: normal
+"Based on the given flow attributes and the labeled examples, I classify this flow as:
+
+Label: normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal.
+Label: normal
+"Based on the provided network flow, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow, I classify it as:
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes and comparison with other labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your input flow attributes, I would classify it as:
+
+Label: bruteForce"
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided:
+
+Label: normal"
+"Based on the given network flow attributes and comparing them with the examples provided, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+"Based on the input network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 15:26:19.836
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10184_177
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.200.8
+Dest port (Destination port) : 61161.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       54
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is:
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes of the network flow and analyzing the characteristics of each type of cyber attack:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes provided for your network flow, it appears to be a normal TCP connection with a single packet being sent. Since there is no indication of malicious behavior such as multiple packets or flags suggesting an attack, the classification would be:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+"After analyzing your network flow with the provided attributes and comparing it to the given labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-27 15:45:42.016
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.9
+Src port (Source port) : 58977
+Dest IP (Destination IP) : 10578_200
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       54
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The flow is classified as: 
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes and analyzing them in comparison with labeled examples:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+"Based on the flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 15:51:46.503
+Duration (Duration of the flow) : 0.533
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 14900_10
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.4
+Dest port (Destination port) : 58637.0
+Packets (Number of transmitted packets) : 15
+Bytes (Number of transmitted bytes) :    29230
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The label is: normal"
+Label: normal
+"Based on the network flow attributes provided:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+"Based on the given flow attributes and the provided labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input data and the network flow attributes, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+"Based on your network flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+"Based on the attributes provided for your network flow and comparing them with the labeled examples you've given, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos.
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and comparing them with the labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+"After analyzing your network flow with the attributes you provided:
+
+Date first seen (Start time flow first seen) : 2017-03-27 16:59:05.991
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.4
+Src port (Source port) : 60113
+Dest IP (Destination IP) : 15843_236
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+I classify this flow as:
+
+normal"
+Label: normal.
+Label: portScan
+Label: normal
+Label: normal
+"Based on the provided network flow attributes:
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the provided labeled examples, I would classify it as:
+
+normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the training data provided, I would classify this flow as:
+
+normal"
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+"Based on the input flow attributes, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on your input, I will classify your flow as follows:
+
+The Flags are .AP.S. which is a normal sequence of flags for an established connection, and it has 10 packets with 8127 bytes, which does not indicate any malicious behavior.
+
+Therefore, 
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"After analyzing the given network flow, I would classify it as:
+
+normal"
+Label: normal
+"Based on the attributes of your network flow, I would classify it as:
+
+normal 
+
+Here's why:
+- The duration is 0.0 seconds, which indicates that this flow was likely a single packet or a short-lived connection.
+- The protocol is TCP and the flags indicate an ACK (acknowledgment) flag, but no SYN (synchronize) or FIN (finish) flag, suggesting that this flow was part of an ongoing conversation rather than an initial handshake or termination of a connection.
+- The source port is 80, which is typically used for HTTP traffic.
+- There are only two packets transmitted with a total of 108 bytes, indicating a short and simple communication.
+- The flags do not indicate any suspicious behavior.
+
+Given these characteristics, it seems like this flow was likely part of normal network activity."
+normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow, I would classify it as:
+
+Label: normal"
+"After analyzing your network flow and comparing it with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+"Based on the flow attributes provided, it appears to be a normal TCP connection with 2 packets and no indication of an attack. However, it is unusual that the destination IP address has ""_231"" appended to it; typically, IP addresses are in the format XXX.XXX.XXX.XXX.
+
+The flags "".A..S"" indicate that this is a legitimate TCP connection. Since there's no clear evidence of a brute force attack (multiple connections with the same source and target ports), port scan, denial of service or ping scan, I would classify it as:
+
+Label: normal"
+Label: normal
+normal
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes, I would classify it as:
+
+Label: normal"
+"Based on the input attributes, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes, I classify it as:
+
+Label: normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan.
+Label: normal
+Label: portScan.
+Label: normal
+Label: portScan
+Label: pingScan
+"Based on the provided flow attributes:
+
+ Label: portScan"
+"Based on your network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-27 21:43:03.826
+Duration (Duration of the flow) : 0.657
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.200.8
+Src port (Source port) : 65409
+Dest IP (Destination IP) : 10162_1
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 5
+Bytes (Number of transmitted bytes) : 540
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+The flow is classified as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: portScan.
+Label: portScan.
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan.
+"After analyzing your network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan.
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: portScan.
+Label: portScan.
+Label: bruteForce
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: portScan
+Label: portScan.
+Label: portScan
+Label: portScan
+Label: portScan
+Label: portScan
+Label: portScan
+Label: bruteForce
+Label: portScan
+Label: normal
+Label: portScan
+"Based on the given attributes and analyzing the flow, I would classify it as:
+
+normal"
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+Label: normal"
+Label: portScan
+Label: portScan.
+Label: portScan
+Label: portScan
+Label: portScan
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-28 06:09:48.119
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.9
+Src port (Source port) : 53865
+Dest IP (Destination IP) : 10056_55
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: dos
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+"Based on the attributes of your network flow and my analysis, I would classify it as:
+
+normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"Based on the given network flow attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes and the labeled examples, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the examples provided:
+
+Date first seen (Start time flow first seen) : 2017-03-28 08:36:14.638
+Duration (Duration of the flow) : 0.021
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.15
+Src port (Source port) : 60459
+Dest IP (Destination IP) : 10319_235
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 4
+Bytes (Number of transmitted bytes) :      293
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP..F
+
+I would classify this flow as: normal"
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I conclude that this flow is classified as:
+
+normal"
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 08:57:09.746
+Duration (Duration of the flow) : 0.081
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 13488_39
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 46850.0
+Packets (Number of transmitted packets) : 4
+Bytes (Number of transmitted bytes) :      422
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+Label: normal"
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, the classification is:
+
+Label: normal"
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes of your network flow and my analysis, I would classify it as:
+
+normal"
+Label: normal
+"Based on the attributes of the network flow, I would classify it as:
+
+normal"
+"Based on the provided network flow attributes, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given flow attributes:
+Date first seen (Start time flow first seen) : 2017-03-28 09:14:13.179
+Duration (Duration of the flow) : 0.024
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.13
+Src port (Source port) : 37728
+Dest IP (Destination IP) : 11744_155
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 2
+Bytes (Number of transmitted bytes) :      140
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..S.
+
+The label is: normal"
+Label: normal
+Label: normal
+"After analyzing the network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan.
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the input attributes and the training data provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the given network flow attributes, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: bruteForce
+Label: normal
+normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+"After analyzing your network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+Label: normal.
+"Based on the provided network flow attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the provided network flow attributes and the given labeled examples, I will classify this flow.
+
+The flow's duration is 0.277 seconds, which is relatively short.
+The protocol used is TCP, which is commonly used for client-server communication.
+The source IP address (192.168.220.10) and destination IP address (10138_16) are not explicitly known as malicious or attack-related in the provided examples.
+The flags (.AP.S.) indicate that the flow contains an ACK flag and a PSH flag, which is common for data transmission.
+
+Considering these factors, this flow does not exhibit any obvious characteristics of ""dos"", ""portScan"", ""bruteForce"", or ""pingScan"" attacks. However, it's worth noting that the provided examples do not cover all possible types of normal flows.
+
+Based on the given information and the flow attributes, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan
+Label: dos
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 10:28:58.405
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.100.5
+Src port (Source port) : 445
+Dest IP (Destination IP) : 192.168.220.12
+Dest port (Destination port) : 58411.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :      108
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP...
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"Based on the flow attributes provided, it does not match any of the typical characteristics of ""dos"", ""portScan"", ""bruteForce"", or ""pingScan"" attacks. However, it also doesn't have a clear indication of being normal.
+
+After evaluating the flags and duration of the flow, I would classify this attack as follows:
+
+ Label: normal"
+"Based on the provided network flow attributes and analyzing them against the given examples, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the input data and the flow attributes provided, I classify this flow as:
+
+normal 
+
+However, note that the destination IP address ""13783_66"" seems unusual. If it were not for that, the flags would indicate a potential DoS attack (.AP... indicates multiple ACKs without SYN), but because of this unusual source IP, my confidence is low.
+
+But since we have no training data to cover such IPs, I am going with the most common classification."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes and analyzing them in relation to the provided examples of attacks:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow, I classified it as:
+
+normal"
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+normal
+"Based on the provided attributes and the labeled examples, this flow can be classified as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the flow attributes, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the labeled examples, I would classify this flow as:
+
+normal"
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the provided examples of labeled flows, I would classify this flow as:
+
+Label: portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your input flow attributes and comparing them with the given labeled examples, I would classify this flow as:
+
+normal 
+
+However, considering further details about TCP flags (.AP.S), which is indicative of an ACK packet without a SYN or FIN flag. This makes it more likely that the flow might be part of brute force attack. Given the source port(443) and destination port (56993.0) both being in high ports range and that this flow's duration was 0.071, I'd say the label is:
+
+bruteForce"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+"Based on the attributes provided for your network flow:
+
+Label: normal"
+Label: normal
+Label: normal
+"After analyzing the flow attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your network flow attributes and the provided examples of each cyber attack type, I would classify this flow as:
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes of the network flow and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+"Based on the given attributes of your network flow and the labeled examples provided earlier, I would classify this flow as:
+
+Label: normal"
+"Based on the provided flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 11:15:27.877
+Duration (Duration of the flow) : 0.279
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 11192_136
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.200.8
+Dest port (Destination port) : 64025.0
+Packets (Number of transmitted packets) : 7
+Bytes (Number of transmitted bytes) :     1186
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+"After analyzing your network flow and comparing it with the labeled examples provided, I would classify this flow as:
+
+Label: normal"
+"Based on the flow attributes and the provided examples, I would classify this flow as:
+
+portScan"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the provided network flow and the labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: dos
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on your given input and my analysis, the flow is classified as:
+
+normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+"Based on the network flow attributes you provided and after analyzing them against the labeled examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes of your network flow, it appears to be a ""normal"" flow. 
+
+Label: normal"
+Label: portScan
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal.
+normal
+Label: dos
+Label: normal
+Label: normal
+"After analyzing your network flow, I would classify it as:
+
+Label: normal"
+Label: normal
+"Based on the input flow:
+
+ Date first seen (Start time flow first seen) : 2017-03-28 12:16:53.135
+Duration (Duration of the flow) : 0.205
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 12895_72
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.200.9
+Dest port (Destination port) : 60871.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      640
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The flow is classified as: 
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the given network flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, I would classify the given flow as:
+
+normal"
+Label: normal
+Label: portScan
+Label: dos
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"Based on the provided network flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-28 12:26:10.113
+Duration (Duration of the flow) : 0.031
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.200.9
+Src port (Source port) : 64795
+Dest IP (Destination IP) : 10077_154
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 2
+Bytes (Number of transmitted bytes) :      108
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A...F
+
+The flow is classified as: 
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: normal
+"Based on the given network flow attributes, I would classify it as:
+
+normal 
+
+However, this classification is based solely on pattern matching with the provided labeled examples. There might be more sophisticated machine learning models that could achieve higher accuracy in classifying cyber attacks.
+
+Here's a brief explanation of why I classified it as ""normal"":
+
+- The source and destination IP addresses are not known to be malicious.
+- The packet count and byte size are relatively small, suggesting a typical HTTP request-response exchange.
+- The TCP flags indicate a valid connection setup (.AP...), which is consistent with normal web traffic.
+
+However, without more context or training data, this classification might not be accurate."
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the provided examples, this flow appears to be similar to other ""normal"" flows.
+
+Label: normal"
+Label: normal.
+Label: normal
+"Based on the provided network flow attributes and the labeled examples:
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the input flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 12:48:40.804
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 12341_101
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 51515.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       74
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A..S.
+
+Label: normal"
+Label: normal
+normal
+Label: dos
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"Based on the flow attributes and the labeled examples provided, I would classify the given flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your input and comparing it with your network flow, I would classify this flow as follows:
+
+Label: normal"
+Label: normal
+"Based on the network flow attributes provided, I would classify this as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal.
+"Based on your provided network flow data and the given attributes of the new flow you want to classify, I've analyzed these details. The source and destination IPs seem somewhat unusual in that they include an underscore (_) which is not commonly observed.
+
+However, upon closer inspection, it appears that this could be a representation of an IP address using its ""dotted decimal"" and ""hexadecimal"" representations combined.
+
+Assuming the IP addresses are correctly formatted (dotted decimal), we can identify them as follows:
+
+- Source IP: 192.168.220.15
+- Destination IP: 101.50.80
+
+Using this interpretation, here's a classification of your new flow based on the provided data and typical characteristics of each attack type.
+
+The given flow has a duration of 0.0 seconds which suggests it was likely a single packet or an incomplete attempt at communication (perhaps due to being blocked or dropped by a firewall).
+
+Upon examining the flags set for this flow, we see that there is no SYN flag (S) and an FIN flag (F), but no ACK (A). The lack of a SYN flag usually indicates this isn't an initial handshake from a client trying to establish a connection. However, the presence of the FIN flag can sometimes be used in certain attacks or as part of an incomplete packet.
+
+Given these characteristics:
+
+- There's a lack of evidence suggesting a brute force attack since there is only one packet and no indication of repeated attempts on the same port.
+- Similarly, there are not enough details to classify this flow as ""dos"" (denial-of-service).
+- The flags set don't match typical patterns seen in ping scans or port scans.
+
+Considering all these factors, it seems like this network flow is likely an incomplete or possibly blocked attempt at communication. However, among the provided categories and without more information about its intent or impact on your network, I would lean towards categorizing it as ""normal"" for now. 
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"After analyzing your network flow and comparing it with the examples provided, I would classify this flow as:
+
+Label: normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the examples of labeled flows, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes and comparing them with the given examples, I would classify this flow as:
+
+Label: normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+"Based on the attributes provided for your network flow and analyzing them against the given labeled examples, I would classify it as:
+
+normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal.
+"Based on the flow attributes and the labeled examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+"Based on the given attributes, this flow is classified as:
+
+normal 
+
+However after reevaluating, it seems more likely to be:
+
+portScan"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-28 13:35:12.765
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 13706_204
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 41974.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The flow is classified as:
+
+Label: normal"
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the labeled examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the labeled examples, I would classify this flow as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal.
+"Based on the input flow attributes, the classification is:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"Based on the flow attributes you provided:
+
+Date first seen (Start time flow first seen) : 2017-03-28 13:50:44.782
+Duration (Duration of the flow) : 0.013
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.210.5
+Src port (Source port) : 60127
+Dest IP (Destination IP) : 10261_223
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 3
+Bytes (Number of transmitted bytes) :      193
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP..F
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow, I classify it as:
+
+normal"
+Label: normal
+Label: bruteForce
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes and the labeled examples provided, I would classify this flow as:
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+"After analyzing your input flow attributes and comparing them with the labeled examples provided, I would classify this network flow as:
+
+""normal""
+
+Explanation: This flow has a small number of packets (5) and bytes transmitted (906), which is consistent with typical web traffic. The flags do not indicate any suspicious activity (.AP.S. indicates an established connection)."
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow with the given attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 14:09:51.029
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10078_74
+Src port (Source port) : 443
+Dest IP (Destination IP) : 192.168.220.14
+Dest port (Destination port) : 37425.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+I would classify this flow as:
+
+Label: normal"
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes, I classify it as:
+
+Label: normal"
+"Based on the input flow:
+
+Date first seen (Start time flow first seen) : 2017-03-28 14:14:24.994
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10223_4
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.15
+Dest port (Destination port) : 54686.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the given examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes, I classify this network flow as:
+
+normal"
+Label: normal
+"Based on the provided network flow attributes, I classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+"After analyzing your network flow and comparing it with the provided examples, I would classify this flow as:
+
+normal"
+Label: normal.
+Label: normal
+"Based on the given network flow and the provided labeled examples, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided information and attributes, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"After analyzing your network flow, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the input network flow with the given attributes, I would classify it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided attributes and the examples, this flow is classified as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes provided, I classify this flow as:
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 14:39:35.778
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.210.4
+Src port (Source port) : 53671
+Dest IP (Destination IP) : 10180_116
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       55
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+The label is: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the network flow attributes and comparing them with the labeled examples provided, I would classify this flow as:
+
+normal"
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your flow attributes and comparing them with the provided examples, I would classify this flow as:
+
+normal."
+"Based on the provided attributes:
+
+Label: normal"
+Label: normal
+"Based on the provided network flow attributes and the labeled examples, this flow is classified as:
+
+normal"
+Label: normal
+Label: bruteForce
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+normal
+Label: normal
+"Based on the given network flow attributes and the classification rules:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+"Based on the network flow attributes you provided:
+
+Label: normal"
+normal
+"After analyzing your network flow, I classified it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: portScan
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and the given examples, this is how I would classify it:
+
+Label: normal"
+Label: normal
+"Based on the given network flow attributes and the examples provided, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow and the labeled examples provided, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided attributes and the labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+"Based on the provided network flow attributes:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow with the provided attributes, I classified it as:
+
+Label: normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given attributes of the network flow:
+
+* Date first seen (Start time flow first seen) : 2017-03-28 15:28:40.177
+* Duration (Duration of the flow) : 0.046
+* Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+* Src IP (Source IP address) : 192.168.220.16
+* Src port (Source port) : 32834
+* Dest IP (Destination IP) : 10784_4
+* Dest port (Destination port) : 443.0
+* Packets (Number of transmitted packets) : 5
+* Bytes (Number of transmitted bytes) :      906
+* Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+This flow can be classified as a ""dos"" attack."
+"Based on the given attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 15:28:53.891
+Duration (Duration of the flow) : 3.041
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.13
+Src port (Source port) : 40399
+Dest IP (Destination IP) : 11142_116
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 18
+Bytes (Number of transmitted bytes) :     3042
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The label is:
+ normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes and considering the labeled examples provided, I would classify this flow as:
+
+Label: normal"
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the provided labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+"Based on the given network flow attributes and the examples provided, I would classify this flow as:
+
+Label: normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and comparing them with the labeled examples, I can classify it as:
+
+Label: normal"
+"Based on the input network flow attributes and considering the possible labels ""normal"", ""dos"", ""portScan"", ""bruteForce"", and ""pingScan"", I would classify this flow as:
+
+Label: normal"
+"After analyzing the flow, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given flow attributes:
+
+Date first seen (Start time flow first seen) : 2017-03-28 16:04:33.311
+Duration (Duration of the flow) : 1.111
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 10068_14
+Src port (Source port) : 80
+Dest IP (Destination IP) : 192.168.220.8
+Dest port (Destination port) : 35579.0
+Packets (Number of transmitted packets) : 4
+Bytes (Number of transmitted bytes) :     1764
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The label is: normal"
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the provided network flow attributes and your labeled examples, I classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+"Based on the attributes of your network flow and the labeled examples provided, I would classify it as:
+
+normal."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing your network flow with the attributes:
+Date first seen (Start time flow first seen) : 2017-03-28 16:55:04.530
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.14
+Src port (Source port) : 60159
+Dest IP (Destination IP) : 10482_91
+Dest port (Destination port) : 80.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+I conclude that this flow is a ""normal"" traffic. 
+
+ Label: normal"
+"After analyzing the given network flow attributes and comparing them with the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+"Based on the given information and the network flow attributes, this flow seems to have characteristics of a ""dos"" (denial of service) attack. 
+
+Label: dos"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"After analyzing the given network flow attributes and comparing them with the labeled examples, I would classify this flow as:
+
+normal."
+Label: normal
+"Based on the given network flow attributes:
+
+ Date first seen (Start time flow first seen) : 2017-03-28 17:02:04.984
+ Duration (Duration of the flow) : 0.403
+ Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+ Src IP (Source IP address) : 12784_45
+ Src port (Source port) : 443
+ Dest IP (Destination IP) : 192.168.220.13
+ Dest port (Destination port) : 42066.0
+ Packets (Number of transmitted packets) : 16
+ Bytes (Number of transmitted bytes) :    23902
+ Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .AP.S.
+
+The flow does not show characteristics typical for Dos attacks since the number of packets and bytes is relatively high. For Port Scan attack, typically a single packet with SYN flag is sent to a specific port. 
+In this scenario, multiple packets have been sent which also include ACK and PSH flags indicating possible data being sent. Given these details, the flow shows signs of an established connection rather than port scanning.
+
+A brute force attack would involve trying multiple usernames/password combinations. Although it's not explicitly mentioned in the given network flow attributes that multiple attempts are made to access a service, given the large number of packets and the source port (443), this could be related to an ssh or https brute-force attempt.
+
+However, since the flags indicate the presence of ACK, PSH, and SYN which is typical for a connection established rather than brute force attack with multiple failed attempts, it's more likely that the flow represents a ""normal"" connection."
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow:
+
+Date first seen (Start time flow first seen) : 2017-03-28 17:09:31.536
+Duration (Duration of the flow) : 0.0
+Proto (Transport protocol (e.g. ICMP, TCP, or UDP)) : TCP  
+Src IP (Source IP address) : 192.168.220.13
+Src port (Source port) : 43727
+Dest IP (Destination IP) : 10703_63
+Dest port (Destination port) : 443.0
+Packets (Number of transmitted packets) : 1
+Bytes (Number of transmitted bytes) :       66
+Flags (concatenation of all TCP Flags, U (URG), A (ACK), P (PSH), R (RST), S(SYN), F(FIN)) : .A....
+
+This flow is classified as:
+
+Label: normal"
+Label: normal
+Label: normal
+"Based on the network flow attributes and the provided labeled examples, I would classify this flow as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the given network flow attributes and the provided labeled examples, I classify this flow as:
+
+normal 
+
+However after re-evaluating the information regarding the flags (.AP.S.), which indicate that the packet is a SYN packet with an ACK flag, suggesting a potential three-way handshake attempt,  I would like to correct my response."
+Label: normal
+"Based on the provided network flow attributes and the labeled examples:
+
+ Label: normal"
+Label: normal
+Label: dos
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+normal
+Label: normal
+Label: normal
+normal
+"After analyzing the given attributes and comparing them with the provided labeled examples, I classify this flow as:
+
+normal."
+Label: normal
+normal
+normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the input flow attributes, I classify it as:
+
+normal"
+Label: portScan
+Label: normal.
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: pingScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the attributes provided for the network flow, I classify it as follows:
+
+Label: normal"
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: portScan
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+"Based on the network flow attributes you provided, I would classify it as:
+
+normal"
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal
+Label: normal.
+Label: dos
+Label: normal
+Label: portScan
+Label: portScan
+Label: normal.
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: normal
+Label: pingScan
+Label: portScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: portScan
+Label: pingScan
+Label: dos
+Label: normal
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
+Label: pingScan
