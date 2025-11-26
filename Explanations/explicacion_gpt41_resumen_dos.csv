@@ -1,0 +1,86 @@
+Explicacion
+"Certainly! Here is a comprehensive **summary of relevant factors** for classifying ""dos"" (Denial of Service) flows, based on the 100 explanations you provided:
+
+---
+
+## **Key Characteristics of ""dos"" Flows**
+
+### 1. **Abnormal TCP Flag Combinations**
+
+- **SYN+FIN**: The simultaneous presence of SYN and FIN flags in the same flow (or even the same packet) is highly unusual for normal TCP communication. Normally, SYN starts a connection and FIN ends it.
+- **SYN+FIN+ACK**: Seeing SYN, FIN, and ACK set within a single short flow is a strong indicator of attack/malformed traffic.
+- **PSH, ACK, SYN, FIN**: Some flows also include PSH (Push) and ACK with SYN+FIN, increasing suspicion.
+- **Rapid or malformed flag sequences**: Multiple flag types in a very brief flow, or out-of-order flag usage (e.g., SYN and FIN close together), is not typical of normal sessions.
+
+### 2. **Short Duration & Packet Burst**
+
+- **Very short-lived flows**: Durations are typically in the **1–10 millisecond range**.
+- **Multiple packets in a brief window**: Often 3–6 packets in just a few milliseconds.
+- **High packet rate**: The ratio of packets to duration is much higher than normal user or application traffic.
+
+### 3. **Small Amount of Data**
+
+- **Low byte counts**: Typically, flows have only a few hundred bytes (e.g., 200–600 bytes), suggesting incomplete or non-substantive sessions.
+- **No evidence of full data exchanges**: Not enough data for a full HTTP transaction or file transfer.
+
+### 4. **Unusual Source/Destination Port Patterns**
+
+- **Source port 80**: Port 80 is normally a destination port for HTTP servers. Its use as a source port is suspicious—may suggest spoofing or crafted packets.
+- **Single target port**: The flows usually target a single service port (often 80), not a range, distinguishing them from port scans.
+- **High destination port**: Sometimes, high ephemeral ports are targeted, which may be an attempt to find open services or evade detection.
+
+### 5. **No Evidence of Legitimate Session Progression**
+
+- **Incomplete TCP handshake**: No evidence of the full SYN → SYN-ACK → ACK sequence.
+- **No sustained data transfer**: Sessions are too short and too small to represent normal user activity.
+
+### 6. **Not Consistent with Other Attack Types**
+
+- **Not port scans**: Port scans typically involve many destination ports or multiple flows to different ports, not just one.
+- **Not brute force**: Brute force attacks usually show repeated login attempts and longer flows to authentication services.
+- **Not ping scans**: Ping scans use ICMP, not TCP.
+
+### 7. **Pattern Consistency**
+
+- **Repetition**: These flows often occur in bursts or are repeated many times from the same or multiple sources.
+- **Target is a common service**: Port 80 (HTTP) is a common victim in the dataset, but any public-facing service can be targeted.
+
+---
+
+## **Summary Table of DoS Indicators**
+
+| Feature           | DoS Indicator                          | Typical Value in DoS Flows             |
+|-------------------|----------------------------------------|----------------------------------------|
+| TCP Flags         | SYN+FIN, SYN+FIN+ACK, etc.             | .A..SF, .AP.SF, etc.                   |
+| Duration          | Extremely short                        | 0.001–0.01 seconds                     |
+| Packets           | Small, rapid bursts                    | 3–6 packets                            |
+| Bytes             | Low                                    | 200–600 bytes                          |
+| Source Port       | Unusual (e.g., 80 as source)           | 80 or high ephemeral port               |
+| Dest Port         | Single service port (e.g., 80)         | 80 or high ephemeral port              |
+| Session Pattern   | Incomplete handshake, rapid close      | No full handshake or data exchange     |
+| Data Volume       | Minimal                                | No full application transaction        |
+| Attack Pattern    | Repeated, bursty, abnormal flags       | Many short flows in quick succession   |
+
+---
+
+## **Conclusion**
+
+**A ""dos"" flow is characterized by:**
+- Very short duration and small size,
+- Abnormal or crafted TCP flag combinations (especially SYN+FIN, SYN+FIN+ACK, with or without PSH/ACK),
+- Absence of legitimate session progression,
+- Unusual source/destination port usage (source port 80, ephemeral ports),
+- Rapid, bursty packet transmission,
+- Not matching port scan, brute force, or ping scan behaviors,
+- Often repeated as part of a larger pattern.
+
+**When classifying flows, prioritize:**  
+- Abnormal TCP flag combinations  
+- Short, incomplete, bursty flows  
+- Unusual port usage  
+- Patterns of repetition  
+- Lack of legitimate session or data transfer
+
+---
+
+**By considering these factors, you can robustly distinguish DoS attack flows from normal and other attack types.**"

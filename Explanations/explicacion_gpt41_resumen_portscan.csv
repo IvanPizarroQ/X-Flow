@@ -1,0 +1,77 @@
+Explicacion
+"Certainly! Here’s a comprehensive summary of the common factors and indicators that explain why network flows are classified as **""portScan""** based on your 100 detailed explanations:
+
+---
+
+## **Key Factors for PortScan Classification (Summary)**
+
+### **1. Single-Packet, Short-Lived Flows**
+- **Packets:** Usually only **1 packet** per flow.
+- **Duration:** **0.0 seconds** — the flow is almost instantaneous.
+- **Bytes:** Small (typically 54–58 bytes for TCP, matching header size, no payload).
+
+### **2. TCP SYN Packets (SYN Scan)**
+- **TCP Flags:** Most commonly, **only the SYN flag is set** (`....S.`).
+- **Behavior:** Indicates an attempt to initiate a TCP connection (first step in TCP handshake) but **no further packets** (no handshake completion, no data transfer).
+- **No Response:** The flow records only the outgoing SYN (no SYN-ACK/ACK/data).
+
+### **3. Other TCP Scan Types**
+- **RST/ACK Responses:** Flows with **.A.R..** (ACK and RST set) are often observed as the target’s response to a probe on a closed port. These are also flagged as part of scanning behavior.
+- **ACK Scans:** Occasionally, a single ACK packet is sent (used to probe firewalls or analyze filtering, but not for establishing communication).
+
+### **4. Unusual or High Destination Ports**
+- **Destination Port:** Frequently, flows target **high, random, or non-standard ports** (not 80, 443, 22, etc.), suggesting a sweep rather than access to a known service.
+
+### **5. No Data or Handshake Completion**
+- **No Data:** Flows consist only of the initial handshake attempt, with **no data payload** and no follow-up packets.
+- **No Connection Establishment:** No evidence of a completed handshake (no SYN-ACK/ACK/data transfer).
+
+### **6. ICMP and UDP Scans (Less Common)**
+- Some port scan labels are assigned to **ICMP Echo Requests** (Type 8, Code 0) or **UDP probes** to high-numbered ports, especially when sent to multiple hosts or via broadcast, as a means of reconnaissance.
+
+### **7. Behavioral Pattern**
+- **Reconnaissance:** The behavior matches classic **reconnaissance**—probing for open ports/services, not attempting to exploit, overwhelm, or authenticate.
+- **Multiple Targets:** Port scans are especially clear when there are **multiple such flows from the same source IP to different destination ports or IPs** in a short time.
+
+---
+
+## **How PortScan Differs from Other Attack Types**
+
+| Attack Type   | Typical Flow Pattern                                                        | How PortScan is Different                          |
+|---------------|----------------------------------------------------------------------------|----------------------------------------------------|
+| **Normal**    | Completed handshake, data transfer, multiple packets                        | PortScan: Only SYN (or probe packet), no data      |
+| **DoS**       | Many packets, high traffic volume, same destination, long duration          | PortScan: Single packets to many ports             |
+| **BruteForce**| Multiple connection attempts (often to same port/service), data packets     | PortScan: No auth attempts, no data, just probes   |
+| **PingScan**  | ICMP Echo Requests to multiple hosts                                       | PortScan: TCP SYN/ACK/RST or UDP, not ICMP         |
+
+---
+
+## **PortScan Signature Table**
+
+| Attribute         | Typical Value            | PortScan Relevance                |
+|-------------------|-------------------------|-----------------------------------|
+| Packets           | 1                       | Single probe, not real session    |
+| Duration          | 0.0                     | No ongoing connection             |
+| Bytes             | 54–58 (TCP), ~42 (ICMP) | Header only, no payload           |
+| TCP Flags         | ....S. / .A.R.. / .A... | SYN scan or scan response         |
+| Data Transfer     | None                    | No handshake or session           |
+| Dest Port         | High/unusual/random     | Probing, not normal service usage |
+| Protocol          | TCP (mainly), ICMP/UDP  | SYN scan, ACK scan, ICMP/UDP scan |
+
+---
+
+## **Summary Statement**
+
+A flow is classified as **""portScan""** when it matches the following pattern:
+
+> **A single, short-lived packet (often a TCP SYN or probe with no follow-up) sent to an unusual or high-numbered port, with no data transfer or handshake completion, and no evidence of real communication. This behavior is characteristic of port scanning, where the goal is to discover which services/ports are open on a target system (reconnaissance), not to establish a session or mount a direct attack.**
+
+If you see **many such flows** from a single source to different ports or IPs, this further confirms port scanning activity.
+
+---
+
+**Use this summary to guide your own classification:**
+- Look for single-packet, SYN-only (or RST/ACK-only) flows, no data, no session, high/random ports, and repeated patterns across ports/hosts.
+- Differentiate from normal traffic, DoS, brute force, and ping scans by these patterns.
+
+Let me know if you want a checklist or an example detection rule!"

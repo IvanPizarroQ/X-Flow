@@ -1,0 +1,95 @@
+Explicacion
+"Absolutely! Here’s a concise, structured summary of the factors and patterns that emerge from the 100 explanations of flows classified as **""normal""** by your network flow labeler. This summary can act as a guide or checklist for distinguishing normal flows from attacks.
+
+---
+
+## **Summary of Factors for Classifying a Flow as ""Normal""**
+
+### 1. **Flow Size & Duration**
+- **Small number of packets:** Typically, 1-5 packets (sometimes up to a dozen); rarely more.
+- **Low byte count:** Usually under 1KB (often far less); rarely above.
+- **Short duration:** Often under a second; usually just a few milliseconds or even zero (instantaneous/single packet).
+
+### 2. **Protocol and Ports**
+- **Common protocols:** TCP and UDP dominate (ICMP/other protocols not seen in these normal flows).
+- **Service ports:** Frequently involve standard application ports (e.g., 80 for HTTP, 443 for HTTPS, 53 for DNS, 445 for SMB).
+- **Ephemeral ports:** One side often uses a high-numbered (ephemeral) port, typical of client/server communication.
+
+### 3. **TCP Flags and Patterns**
+- **ACK only:** Many normal flows are single ACK packets (`.A....`), often as part of connection maintenance or teardown.
+- **ACK + FIN:** (`.A...F`) Indicates graceful connection closure—common and normal.
+- **PSH + ACK:** (`.AP...`) Indicates actual data transfer in an established session.
+- **SYN + ACK:** (`.A..S.`) Seen as part of the TCP handshake, normal for connection setup.
+- **SYN only:** Rarely seen as normal, except as part of a legitimate handshake.
+- **No SYN scan/FIN scan/Xmas scan patterns:** No evidence of repeated SYNs or unusual flag combinations.
+- **UDP flows:** No flags, as expected.
+
+### 4. **Behavioral Patterns**
+- **No repetition:** No evidence of rapid, repeated, or sequential connections to many ports or hosts.
+- **No high volume:** No floods of packets or bytes.
+- **Isolated flows:** Most normal flows are isolated events, not part of a large group of similar flows.
+- **Graceful connection handling:** Proper handshakes and tear-downs, not abrupt resets.
+
+### 5. **Application Context**
+- **DNS queries/responses:** Typically 1-2 UDP packets, small size, port 53—always normal.
+- **HTTP/HTTPS traffic:** Short TCP flows to/from port 80/443, small data, normal flags.
+- **SMB/file sharing:** Short TCP flows to port 445, normal in Windows environments.
+- **mDNS and other local service discovery:** Single UDP packet to multicast ports (e.g., 5353).
+
+### 6. **Lack of Attack Indicators**
+- **No high packet/byte bursts:** (DoS/flooding)
+- **No connection attempts to multiple ports in sequence:** (Port scans)
+- **No repeated connections or failed logins:** (Brute force)
+- **Not ICMP:** (Ping scan)
+- **No abnormal port/protocol usage**
+- **No patterns of scanning, brute force, or flooding**
+
+### 7. **General Context**
+- **Correct protocol/port pairing:** (e.g., UDP/53 for DNS, TCP/443 for HTTPS)
+- **Legitimate source/destination relationships:** (e.g., server-to-client port usage)
+- **No protocol anomalies:** No unexpected flags for the protocol in use.
+
+---
+
+## **Red Flags Not Seen in ""Normal"" Flows**
+
+- **High packet count or byte count within a short period**
+- **Multiple flows from one source to many different destination ports/hosts**
+- **Frequent SYNs without follow-up (incomplete handshakes)**
+- **Unusual flag combinations (SYN+FIN, etc.)**
+- **ICMP traffic in the context of TCP/UDP normal flows**
+- **Many short, repeated flows to ports commonly targeted by brute force (e.g., SSH/22, RDP/3389)**
+- **Large bursts of DNS or other UDP traffic**
+
+---
+
+## **Summary Table**
+
+| Attribute/Pattern    | Normal Flow Characteristics                | Attack Indicator?       |
+|----------------------|--------------------------------------------|------------------------|
+| Packets              | 1–5 (sometimes up to ~12)                  | ✗                      |
+| Bytes                | Usually <1KB                               | ✗                      |
+| Duration             | <1s, often 0.0–0.1s                        | ✗                      |
+| TCP Flags            | ACK, ACK+PSH, ACK+FIN, SYN+ACK             | ✗                      |
+| Protocol/Port        | Expected pairings (TCP/80, UDP/53, etc.)   | ✗                      |
+| UDP Flows            | 1–2 packets, port 53 or 5353               | ✗                      |
+| Connection Behavior  | Proper handshake/teardown, isolated flow   | ✗                      |
+| Repetition/Scanning  | None                                       | ✓ (if present)         |
+| High Volume/Flood    | None                                       | ✓ (if present)         |
+| ICMP Traffic         | None in normal TCP/UDP flows               | ✓ (if present)         |
+| Source/Dest Role     | Server-to-client or client-to-server logic | ✗                      |
+
+---
+
+## **How to Use These Factors**
+
+- **Use packet/byte count, duration, and flag analysis as primary filters.**
+- **Check for contextually appropriate protocol/port pairings.**
+- **Look for lack of repetition, scanning, and brute-force patterns.**
+- **Treat isolated, short, low-volume, properly flagged flows as normal—unless part of a larger suspicious pattern.**
+- **Always consider the absence of attack signatures as a strong indicator of normalcy.**
+
+---
+
+**In summary:**  
+Normal flows are characterized by brief, low-volume, protocol-appropriate, and properly flagged exchanges between expected ports, with no evidence of repetition, flooding, or attack-like patterns. Use these features as your primary criteria for classifying flows as ""normal."""

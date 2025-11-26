@@ -1,0 +1,83 @@
+Explicacion
+"Certainly! Here is a **summary of the relevant factors and key patterns** that emerge from the explanations of network flows classified as **""bruteForce""**. This should help you consider as many relevant aspects as possible when classifying flows in your own system.
+
+---
+
+## **Summary: SSH Brute Force Flow Classification Patterns**
+
+### **1. Core Indicators of Brute Force Flows**
+- **Target Service:**  
+  - **Port 22 (SSH)** is the overwhelming target; nearly all brute force flows are directed at SSH.
+- **Connection Attempts:**  
+  - **TCP SYN packets** to port 22 are the most common element; each attempt to connect (even if not completed) may be part of brute force activity.
+  - **Multiple short-lived connections**: Many flows are very short (often single SYNs or flows lasting <1 second).
+- **Burst Activity:**  
+  - Many flows show **multiple packets and bytes transmitted in a very short timeframe** (e.g., 5–20 packets in <0.2 seconds) – indicative of automated login scripts or tools.
+- **TCP Flags Patterns:**  
+  - **SYN-only (.…S.)**: Only the SYN flag set (initial connection) – common in high-frequency attack attempts.
+  - **.AP.S.** or **.AP..F**: Indicates a short burst of data (likely a login attempt) followed by immediate connection close (FIN) or abrupt termination.
+  - **Full session (SYN, data, FIN)**: Short sessions with a full handshake, data transmission, and quick closure, typical for failed login attempts.
+
+### **2. Flow Characteristics**
+- **Short Duration:**  
+  - Most brute force flows last **less than 2 seconds**, often under 0.2 seconds.
+- **Low to Moderate Packets/Bytes:**  
+  - Flows usually involve **1–20 packets** and **<4000 bytes**.
+- **Repeated Patterns:**  
+  - Brute force is identified by **repetition** – many similar flows from the same source(s) to the same destination/port in a short window.
+- **Source/Destination Ports:**  
+  - **Source port** is typically ephemeral (random high number) or sometimes 22 (SSH server responses).
+  - **Destination port** is almost always 22 (SSH), but sometimes can be high if viewing server-to-client responses.
+
+### **3. Contextual Factors**
+- **Single Flow vs. Pattern:**  
+  - A single SYN to port 22 could be normal, but if many such flows are seen from the same source to the same destination/port, this is a strong brute force signal.
+- **Labeling Practices:**  
+  - Datasets and classifiers may label **every flow** as ""bruteForce"" if it occurs during a known attack window or from a known attacker, even if each flow in isolation is just a SYN or short burst.
+  - Sometimes, flows are misclassified as ""bruteForce"" due to dataset or model bias, e.g., with NetBIOS/UDP flows, but this is rare and usually incorrect.
+
+### **4. What is NOT Brute Force (for contrast)**
+- **Port Scans:**  
+  - Show SYNs to **many different destination ports**, not just 22.
+- **DoS Attacks:**  
+  - Involve high packet/byte counts, often with the goal of overwhelming the service, not just authentication attempts.
+- **Ping Scans:**  
+  - Use ICMP, not TCP/22.
+- **Normal Flows:**  
+  - Longer duration, more data transferred, and a sustained session after handshake.
+
+### **5. Additional (Edge) Cases**
+- **UDP/NetBIOS flows:**  
+  - Some mislabels occur if the model confuses enumeration with brute force, but these should generally be ignored for SSH brute force classification.
+- **Server-to-client flows:**  
+  - Flows with source port 22 and high destination port may represent server responses to attempted logins.
+
+---
+
+## **Summary Table: SSH Brute Force Flow Features**
+
+| Attribute        | Brute Force Typical Value      |
+|------------------|-------------------------------|
+| Protocol         | TCP                           |
+| Destination port | 22 (SSH)                      |
+| Source port      | Random high (client), or 22   |
+| TCP Flags        | SYN only, or SYN+ACK+PSH+FIN  |
+| Duration         | Very short (<2s, often <0.2s) |
+| Packets/Bytes    | 1–20 packets, <4000 bytes     |
+| Behavior         | Many similar flows in burst   |
+
+---
+
+## **Summary Statement**
+
+**SSH brute force flows are characterized by short-lived, repetitive connection attempts to port 22, usually with only SYN or a small burst of packets/bytes, showing patterns of rapid, automated login attempts. The core indicators are repeated TCP SYNs or short data bursts to SSH, often from the same source, with flows that are short in duration and small in size. Classifiers rely heavily on context and repetition, as a single such flow can be normal, but many in a burst are a strong brute force signal.**
+
+---
+
+If you are building or tuning a classifier, focus on:
+- **Repetition of short TCP flows to port 22**
+- **Short duration, low packet/byte counts**
+- **TCP flags indicating session initiation and quick closure**
+- **Context (many similar flows in a short window)**
+
+This approach will maximize your detection of brute force attacks while minimizing false positives."
