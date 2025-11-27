@@ -12,14 +12,16 @@ X-Flow is a two-stage methodology that enhances flow-based network intrusion det
 
 ## Repository Structure
 
-├── Explanations/ # Generated class-level explanations (dataset)
-├── Predictions/ # Predictions from the 10-run evaluation
-├── Training_set/ # Samples used during the explanation extraction phase
-├── Validation_set/ # Validation subsets used for evaluation
-├── llm_gpt_10run_fewshot.ipynb # Few-shot baseline experiments
-├── llm_gpt_10run_fewshot_megaprompt.ipynb # Few-shot with expanded prompts
-├── llm_gpt_10run_zeroshot.ipynb # Zero-shot baseline experiments
+.
+├── Explanations/                               # Generated class-level explanations (dataset)
+├── Predictions/                                # Predictions from the 10-run evaluation
+├── Training_set/                               # Samples used during the explanation extraction phase
+├── Validation_set/                             # Validation subsets used for evaluation
+├── llm_gpt_10run_fewshot.ipynb                 # Few-shot baseline experiments
+├── llm_gpt_10run_fewshot_megaprompt.ipynb      # Few-shot with expanded prompts
+├── llm_gpt_10run_zeroshot.ipynb                # Zero-shot baseline experiments
 └── README.md
+
 
 ---
 
