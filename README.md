@@ -12,7 +12,7 @@ X-Flow is a two-stage methodology that enhances flow-based network intrusion det
 
 ## Repository Structure
 
-.
+```
 ├── Explanations/                               # Generated class-level explanations (dataset)
 ├── Predictions/                                # Predictions from the 10-run evaluation
 ├── Training_set/                               # Samples used during the explanation extraction phase
@@ -21,7 +21,7 @@ X-Flow is a two-stage methodology that enhances flow-based network intrusion det
 ├── llm_gpt_10run_fewshot_megaprompt.ipynb      # Few-shot with expanded prompts
 ├── llm_gpt_10run_zeroshot.ipynb                # Zero-shot baseline experiments
 └── README.md
-
+```
 
 ---
 
@@ -43,6 +43,7 @@ This method improves macro F1-score by **12.9 to 39.2 points** over zero-shot de
 
 If you use this repository, the explanation dataset, or any component of the X-Flow methodology in academic work, **please cite the following paper**:
 
+```
 @inproceedings{pizarro2025xflow,
 title={X-Flow: Explanation-Augmented Prompting for LLM-Based Intrusion Detection},
 author={Pizarro, Ivan and Ñanculef, Ricardo and Valle, Carlos},
@@ -50,3 +51,4 @@ booktitle={IEEE International Conference on Pattern Recognition Systems (ICPRS)}
 year={2025},
 note={Accepted, to appear}
 }
+```
